@@ -1,3 +1,5 @@
+//10. Define class vector of integers with all possible operations like constructor, destructor,
+//copy constructor and assignment operators>, <, >=, <=, ==, ++ (pre and post), +, +=, ( ) 
 #include<iostream>
 using namespace std;
 class Vector
