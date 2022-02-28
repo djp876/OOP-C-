@@ -54,6 +54,5 @@ int main()
     v.push(4);
     v.front();
     v.back();
-    cout<<v[1];
     return 0;
 }
