@@ -50,7 +50,7 @@ void divide(Complex c1,Complex c2){
 
 int main()
 {
-    int q1=2,q2=3,q3=4,q4=5;
+    int q1=20,q2=40,q3=50,q4=60;
 
     Complex p1(&q1,&q2);
     Complex num2(&q3,&q4);
