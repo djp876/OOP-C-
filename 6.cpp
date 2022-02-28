@@ -1,7 +1,6 @@
 //6. Define class matrix of integers with all possible operations like constructor, destructor,
 //copy constructor and assignment operators 
 #include<iostream>
-
 using namespace std;
 class matrix{
 	public:
@@ -90,4 +89,4 @@ int main()
  	m.mul_mat(m2);
 	//m3.display();
 	return 0;
-}}
+}
