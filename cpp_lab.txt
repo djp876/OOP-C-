@@ -59,7 +59,7 @@ Enter 1 element 4
 Enter 2 element 5
 Enter 3 element 6
 Sum of given array is 15
-
+________________________________________________________________________________________________________________________________________
 2)Function overloading: writing string operations like strcat and strncat, strcpy and strncpy as overloaded functions.
 #include<iostream>
 #include<string>
@@ -158,7 +158,7 @@ enter the no of letters to be executed
 4
 the required string is
 reva
-
+______________________________________________________________________________________________________________________________________________
 3)Dynamically allocating space for a pointer depending on input and doing this repeatedly, depending on different inputs and finally de-allocating the pointer.
 #include<iostream>
 #include<string>
@@ -243,7 +243,7 @@ double
 Enter a number 
 7694.4589546
 Entered is 7694.46
-
+________________________________________________________________________________________________________________________________
 4)Define class complex with all possible operations: constructor, destructor, copy constructor, assignment operator with the data members stored as pointer to integers.
 #include<iostream>
 using namespace std;
@@ -301,7 +301,7 @@ Destructor called
 Destructor called 
 Destructor called 
 Destructor called
-
+________________________________________________________________________________________________________________________________
 5)Define class vector of integers with all possible operations like constructor, destructor, copy constructor and assignment operators.
 #include<iostream>
 using namespace std;
@@ -375,7 +375,7 @@ after assigning values using =operator are:
 destructor called
 destructor called
 destructor called
-
+______________________________________________________________________________________________________________________________________
 6)Define class matrix of integers with all possible operations like constructor, destructor, copy constructor and assignment operators.
 #include<iostream>
 using namespace std;
@@ -495,7 +495,7 @@ Using copy constructor
 Copy constructor invoked 
 3 7 
 1 8
- 
+ _______________________________________________________________________________________________________________________
 7)Define class matrix of integers using vector, with all possible operations like constructor, destructor, copy constructor and assignment operators.
 #include<vector>
 #include<algorithm>
@@ -583,6 +583,7 @@ Printing using copy constructor
 1 2 3 
 45 23 67 
 12 34 78 
+____________________________________________________________________________________________________________________________________________
 8)8. Defineclass stack,queue,linked-list,array,set usingsomedata-type(int)withdatamembers kept as private and functions kept in both protected and public sections.
 #include<iostream>
 #include <cstdlib>
@@ -820,6 +821,7 @@ Set values are
 3 11 26 
 After deleting element set values are 
 11 26
+_________________________________________________________________________________________
 9)Define class complex with all possible operators: constructor, destructor, copy constructor, assignment operator and operators >, =, <=, ==, ++ (pre and post), +, +=, ( ), with the data members stored as pointer to integers.
 #include<iostream>
 using namespace std;
@@ -992,6 +994,7 @@ Paranthesis operator overloading
 Real value is 5
 Imaginary value is 12
 Magnitude part is 13
+_____________________________________________________________________________________________________________________________________________________________
 10) Define class vector of integers with all possible operations like constructor, destructor, copy constructor and assignment operators>, =, <=, ==, ++ (pre and post), +, +=, ().
 #include<iostream>
 using namespace std;
@@ -1149,6 +1152,7 @@ after preincrementing v1 its values are:
 4
 Object destroyed
 Object destroyed
+_____________________________________________________________________________________________________________________________________________
 11)Define class matrix of integers with all possible operations like constructor, destructor, copy constructor and assignment operators>, <,<=, <=, ==, ++ (pre and post), +, +=, ().
 
 #include<iostream>
@@ -1416,6 +1420,7 @@ Pre incrementing operators
 Post incrementing operators 
 115 71 
 64 33 
+___________________________________________________________________________________________________________________________________________________
 12)Define class matrix of integers using vector, with all possible operations like constructor, destructor, copy constructor and assignment operators>, <,<=, <=, ==, ++ (pre and post),+,+=, ( ).
 #include<iostream>
 #include<vector>
@@ -1695,6 +1700,7 @@ Pre incrementing operators
 Post incrementing operators 
 25 36 
 14 58 
+___________________________________________________________________________________________________________________
 13)Define stack and queue inherited from array class, with standard functions and operators.
 #include<iostream>
 using namespace std;
@@ -1795,6 +1801,7 @@ Element dequeue is 57
 Elements in queue are 
 80
 78
+________________________________________________________________________________________________________________________________________________________________
 14)Define a class called ‘array’ with data type passed as template type with constructor, destructor, copy constructor and assignment operators and index operator.
 #include<iostream>
 using namespace std;
@@ -1869,7 +1876,7 @@ Assignment operator
 45
 19
 456
-
+____________________________________________________________________________________________________________________________________
 15)15. Define template functions for compare and use it in the algorithms like bubble sort, insertion sort, merge sort.
 #include<iostream>
 #include<vector>
@@ -2003,7 +2010,7 @@ Printing using Bubble Sort
 Printing using Insertion Sort 
 1.7 4.5 9.8 37.55 63.3 
 Printing using Merge Sort 
-
+________________________________________________________________________________________________________________________
 16)16. Formatted input-output examples
 #include<iostream>
 #include<iomanip>
@@ -2027,7 +2034,7 @@ Hii
 3454
 *********R
 Hello i am Revanth
-
+______________________________________________________________________________________________________________________________________________________
 17.a)input manipulators
 #include<iostream>
 using namespace std; 
@@ -2044,7 +2051,7 @@ output:
 Enter a line of string:
 hello revanth, how are you?
 hello revanth, how are you?
-
+_____________________________________________________________________________________________________________________
 17.b)>>,<< operators overloading
 #include<iostream>
 using namespace std;
